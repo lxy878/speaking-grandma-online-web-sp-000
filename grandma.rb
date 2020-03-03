@@ -14,4 +14,14 @@
 
 def speak_to_grandma(words)
   if words=="I LOVE YOU GRANDMA!"
+
+  elsif words=="Hi!"
+
+  elsif words=="WHAT?"
+
+  elsif words=="Hi Nana, how are you?"
+
+  else
+
+  end
 end
