@@ -15,13 +15,9 @@
 def speak_to_grandma(words)
   if words=="I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif words=="Hi!"
-    puts ""
-  elsif words=="WHAT?"
-
-  elsif words=="Hi Nana, how are you?"
+  elsif words=="Hi!" or words=="Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
   else
-
+    puts "NO, NOT SINCE 1938!"
   end
 end
